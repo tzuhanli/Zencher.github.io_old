@@ -13,17 +13,18 @@
 		"contentIdentifier": "io.github.Zencher.Tello",
 		"contentVersion": "1.0",
 		"url": "https://Zencher.github.io/Tello/Tello.playgroundbook.zip",
+		"publishedDate": "2018-07-17T09:00:00+07:00",
+		"lastUpdatedDate": "2018-07-17T12:30:00+07:00",
+		"thumbnailURL": "Tello/thumbnail.png",
+		"bannerImageURL": "Tello/bannerImage.png",
 		"additionalInformation": [
 			{
 				"name": "Languages",
 				"value": "English",
-				"publishedDate": "2018-07-17T09:00:00+07:00",
-				"lastUpdatedDate": "2018-07-17T12:30:00+07:00",
-				"thumbnailURL": "Tello/thumbnail.png",
-				"bannerImageURL": "Tello/bannerImage.png",
-				"previewImageURLs": []
-
 			}
+		],
+		"previewImageURLs": [
+			"Tello/previewImage.png"
 		]
 	}
 ]
