@@ -1,0 +1,28 @@
+{
+"title": "Zencher",
+"publisherName": "Zencher",
+"feedIdentifier": "io.github.Zencher",
+"contactURL": "mailto:cora.li@zencher.com",
+"formatVersion": "1.0",
+"documents": [
+{
+"title": "Tello",
+"overviewSubtitle": "Learn about Tello.",
+"detailSubtitle": "Learn about Tello.",
+"description": "Learn To Control the Tello",
+"contentIdentifier": "io.github.Zencher.Tello",
+"contentVersion": "1.0",
+"url": "https://Zencher.github.io/Tello/Tello.playgroundbook.zip",
+"additionalInformation": [
+{
+"name": "Languages",
+"value": "English",
+"publishedDate": "2018-07-17T09:00:00+07:00",
+"lastUpdatedDate": "2018-07-17T12:30:00+07:00",
+"thumbnailURL": "Tello/thumbnail.png",
+"bannerImageURL": "Tello/bannerImage.png",
+"previewImageURLs": []
+
+}
+]
+}
